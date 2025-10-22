@@ -1,0 +1,14 @@
+Installation Of Python 
+
+Step 1: Go to the official Python website: https://www.python.org/downloads/
+
+Step 2: Download the latest version (e.g., “Python 3.12.x”) by clicking “Download Python 3.x.x”.
+
+Step 3: Run the installer once it’s downloaded.
+
+Step 4: Important:
+            Check the box that says “Add Python to PATH” at the bottom of the installer window.
+
+Step 5: Click “Install Now.”
+
+Step 6: Wait for the installation to complete, then click “Close.”
